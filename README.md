@@ -1,5 +1,4 @@
 - Hi, I’m @GregB98
-  Security Engineering student
 
 <!---
 GregB98/GregB98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
